@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1659357694 source:c:\users\leand\onedrive\escritorio\tp4\recuperatorio2parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vehiculos.h"
+	<string.h>
+
+1659357716 c:\users\leand\onedrive\escritorio\tp4\recuperatorio2parcial\vehiculos.h
+
+1659357694 source:c:\users\leand\onedrive\escritorio\tp4\recuperatorio2parcial\vehiculos.c
+	<stdio.h>
+	<stdlib.h>
+	"vehiculos.h"
+	<string.h>
+
